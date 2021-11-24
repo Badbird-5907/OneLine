@@ -1,0 +1,4 @@
+name: OneLinePlugin
+version: '${project.version}'
+main: net.badbird5907.onelineplugin.OneLinePlugin
+api-version: 1.17
